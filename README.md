@@ -1,6 +1,10 @@
 # Frontend de LIITEC API: Visualización de Datos de Sensores Ambientales 🌿📊
 Este proyecto es una aplicación web desarrollada en [Next.js](https://nextjs.org/), creada a partir de [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Descripción
+
+Este proyecto es una demostración del potencial de LIITEC API para la visualización de datos ambientales recopilados por sensores IoT. Es importante destacar que esta aplicación no es la plataforma oficial de LIITEC API, sino simplemente una muestra de las funcionalidades que ofrece la API.
+
 ## Getting Started
 
 First, run the development server:
