@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend de LIITEC API: Visualización de Datos de Sensores Ambientales 🌿📊
+Este proyecto es una aplicación web desarrollada en [Next.js](https://nextjs.org/), creada a partir de [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
